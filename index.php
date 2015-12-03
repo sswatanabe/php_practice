@@ -1,6 +1,6 @@
 <?php
-$str = "100";
-$str = "3300";
+$str = "1";
+$str = "2";
 var_dump($str);
 var_dump( (int)$str );
 ?>
