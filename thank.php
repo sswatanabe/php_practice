@@ -6,7 +6,7 @@
   <table>
     <tr>
       <th>氏名</th>
-      <td><?php print( htmlspecialchars( $_REQUEST["name"], ENT_QUOTES)); ?></td>
+      <td><?php print( htmlspecialchars( $_REQUEST["value"]*0.5, ENT_QUOTES)); ?></td>
     </tr>
 
      <tr>
